@@ -1,0 +1,4 @@
+node_modules
+.env
+public/uploads/*  # Ignore uploaded files in git but keep the directory
+!public/uploads/.gitkeep # Optionally keep an empty file to track the folder
