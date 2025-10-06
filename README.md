@@ -53,7 +53,7 @@ To set up the backend API on your local machine, follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repository-url-for-backend>
+    git clone https://github.com/Lokesh7898/Traveler_Backend.git
     cd backend
     ```
 2.  **Install dependencies:**
