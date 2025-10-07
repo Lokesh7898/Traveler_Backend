@@ -14,7 +14,7 @@ const userProtectedRoutes = require('./routes/userProtectedRoutes');
 const adminProtectedRoutes = require('./routes/adminProtectedRoutes');
 
 dotenv.config();
-connectDB();
+connectDB(); 
 const app = express();
 
 const uploadsDir = path.join(__dirname, 'public', 'uploads');
